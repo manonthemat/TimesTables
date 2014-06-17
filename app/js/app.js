@@ -7,6 +7,7 @@ angular.module('timesTables', [
 angular.module('timesTables.controllers', []).controller('mainCtrl', ['$scope', function($scope) {
   //$scope.factorlist = [1, 2, 3, 4, 5, 6, 7, 8, 9];
   $scope.factorlist = [2, 3];
+  $scope.factorFormat = 'factor2first';
 
   function locationOf(element, array, start, end) {
     start = start || 0;

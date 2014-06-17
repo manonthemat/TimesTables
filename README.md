@@ -1,7 +1,7 @@
 #TimesTables
 
 ToDo:
-- Make it pretty
-- More options (format, greater factors)
+- Make it prettier
+- More options (greater factors)
 - Add sounds for motivation
 - Refactoring
