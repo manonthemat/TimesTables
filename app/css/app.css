@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+
+#main {
+  overflow: auto;
+  padding-bottom: 50px;
+}
+
+.factorselection {
+  font-size:10px;
+}
