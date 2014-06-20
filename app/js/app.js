@@ -47,7 +47,7 @@ angular.module('timesTables.controllers', []).controller('mainCtrl', ['$scope', 
   };
 
   var selectRandomFactor = function() {
-    return Math.floor(Math.random() * $scope.factorlist.length) + 1;
+    return Math.floor(Math.random() * 9) + 1;
   };
 
   var selectFactorFromList = function() {
